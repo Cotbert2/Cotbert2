@@ -4,7 +4,11 @@
 
 ![Banner](./img/nigth.png)
 
-Software Developer sharing my code and thoughts<br>Universidad de las Fuerzas Armadas student<br>Cybersecurity enthusiast<br>Currently learning about machile learning and AI<br>I'm a fan of the open-source community and I'm always looking for new projects to contribute to
+- Software Developer sharing my code and thoughts
+-Universidad de las Fuerzas Armadas student
+- Cybersecurity enthusiast
+- Currently learning about machile learning and AI
+- I'm a fan of the open-source community and I'm always looking for new projects to contribute to
 
 
 ## 🌐 Socials:
